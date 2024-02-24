@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Agustín</h1>
-<h3 align="center">Desarrollador Frontend de Uruguay</h3>
+<h3 align="center">Desarrollador Front & BackEnd de Uruguay</h3>
 
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=aggus19&label=Visitas%20al%20perfil&color=0e75b6&style=flat-square"
