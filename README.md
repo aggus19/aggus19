@@ -7,7 +7,7 @@
     <img src="https://github-profile-trophy.vercel.app/?username=aggus19&theme=onedark" alt="aggus19" />
 </p>
 
-- 🔭 Actualmente trabajo en el proyecto personal [BarberDuck](https://barberduck.shop/)
+- 🔭 Actualmente trabajo en el proyecto personal [BarberDuck](https://afagundez.shop/)
 
 <!-- <h3 align="center">Conéctate conmigo:</h3>
 <p align="center">
